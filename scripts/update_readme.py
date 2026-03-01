@@ -36,7 +36,7 @@ def fetch_blog_posts():
 
 
 def update_readme(posts):
-    with open("README.template.md", "r", encoding="utf-8") as file:
+    with open("profile/README.template.md", "r", encoding="utf-8") as file:
         template = file.read()
 
     # Generate the markdown string for the posts
@@ -65,9 +65,9 @@ def update_readme(posts):
         flags=re.DOTALL,
     )
 
-    with open("README.md", "w", encoding="utf-8") as file:
+    with open("profile/README.md", "w", encoding="utf-8") as file:
         file.write(template)
-    print("README.md has been successfully updated.")
+    print("profile/README.md has been successfully updated.")
 
 
 if __name__ == "__main__":
