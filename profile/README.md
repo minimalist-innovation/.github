@@ -22,6 +22,8 @@ We translate data into operational clarity, building a strong foundation for sus
 ### 📰 Latest Insights from Our Blog
 
 <!-- BLOG-POSTS:START -->
+- [The Semantic Layer Market Solved Everything Except the One Question That Matters](https://www.minimalistinnovation.com/post/semantic-layer-job-context-agentic-ai)
+- [Job-Contextual Semantic Modeling: The Need for a New Category Beyond Catalogs, Glossaries, and Semantic Layers](https://www.minimalistinnovation.com/post/job-contextual-semantic-modeling)
 - [Domain Modeling for Agentic AI: Customer 360 as a Semantic Problem](https://www.minimalistinnovation.com/post/customer-360-domain-modeling-agentic-ai)
 - [Sustainable Entity Resolution: Profiling and Energy Measurement](https://www.minimalistinnovation.com/post/ecological-cost-entity-resolution-software-carbon-intensity)
 - [The infrastructure behind global text: I18N, ICU, and why Rust does it differently](https://www.minimalistinnovation.com/post/global-text-infrastructure-i18n-icu-rust)
@@ -30,10 +32,8 @@ We translate data into operational clarity, building a strong foundation for sus
 - [The Strategic Framework for Modern Identity: Decoding ER, IR, and IM for the Enterprise](https://www.minimalistinnovation.com/post/decoding-entity-identity-resolution-agentic-ai)
 - [The Invisible Wall Blocking Your FEFO (First Expired, First Out) Strategy](https://www.minimalistinnovation.com/post/fefo-phantom-inventory-product-identity)
 - [Strategies to Optimize Analytics Insights for Growing Companies](https://www.minimalistinnovation.com/post/strategies-to-optimize-analytics-insights-for-growing-companies)
-- [Benchmarking &#38; Datasets for Entity Resolution](https://www.minimalistinnovation.com/post/benchmarking-datasets-metrics-entity-resolution)
-- [Orchestration of Identity: Turning Algorithms into a Well-tuned Arrangement ](https://www.minimalistinnovation.com/post/entity-resolution-orchestration-framework)
 <!-- BLOG-POSTS:END -->
 
 ---
 
-*This README is automated. Last updated: <!-- DATE:START -->2026-07-26 03:13:48 UTC<!-- DATE:END -->*
+*This README is automated. Last updated: <!-- DATE:START -->2026-08-02 02:57:33 UTC<!-- DATE:END -->*
