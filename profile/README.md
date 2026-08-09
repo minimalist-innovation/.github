@@ -22,6 +22,7 @@ We translate data into operational clarity, building a strong foundation for sus
 ### 📰 Latest Insights from Our Blog
 
 <!-- BLOG-POSTS:START -->
+- [What "Context" Actually Means — And the Five Layers You Need Before an Agent Can Act on Its Own](https://www.minimalistinnovation.com/post/what-is-context-agentic-ai)
 - [The Semantic Layer Market Solved Everything Except the One Question That Matters](https://www.minimalistinnovation.com/post/semantic-layer-job-context-agentic-ai)
 - [Job-Contextual Semantic Modeling: The Need for a New Category Beyond Catalogs, Glossaries, and Semantic Layers](https://www.minimalistinnovation.com/post/job-contextual-semantic-modeling)
 - [Domain Modeling for Agentic AI: Customer 360 as a Semantic Problem](https://www.minimalistinnovation.com/post/customer-360-domain-modeling-agentic-ai)
@@ -31,9 +32,8 @@ We translate data into operational clarity, building a strong foundation for sus
 - [The hidden complexity of text: A close look at Unicode normalization for entity resolution](https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution)
 - [The Strategic Framework for Modern Identity: Decoding ER, IR, and IM for the Enterprise](https://www.minimalistinnovation.com/post/decoding-entity-identity-resolution-agentic-ai)
 - [The Invisible Wall Blocking Your FEFO (First Expired, First Out) Strategy](https://www.minimalistinnovation.com/post/fefo-phantom-inventory-product-identity)
-- [Strategies to Optimize Analytics Insights for Growing Companies](https://www.minimalistinnovation.com/post/strategies-to-optimize-analytics-insights-for-growing-companies)
 <!-- BLOG-POSTS:END -->
 
 ---
 
-*This README is automated. Last updated: <!-- DATE:START -->2026-08-02 02:57:33 UTC<!-- DATE:END -->*
+*This README is automated. Last updated: <!-- DATE:START -->2026-08-09 01:53:16 UTC<!-- DATE:END -->*
