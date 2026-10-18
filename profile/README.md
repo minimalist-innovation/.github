@@ -22,6 +22,7 @@ We translate data into operational clarity, building a strong foundation for sus
 ### 📰 Latest Insights from Our Blog
 
 <!-- BLOG-POSTS:START -->
+- [Your Team Knows What Happens to Sales After a Deal Ends](https://www.minimalistinnovation.com/post/sales-after-trade-promotion-ends)
 - [What "Context" Actually Means — And the Five Layers You Need Before an Agent Can Act on Its Own](https://www.minimalistinnovation.com/post/what-is-context-agentic-ai)
 - [The Semantic Layer Market Solved Everything Except the One Question That Matters](https://www.minimalistinnovation.com/post/semantic-layer-job-context-agentic-ai)
 - [Job-Contextual Semantic Modeling: The Need for a New Category Beyond Catalogs, Glossaries, and Semantic Layers](https://www.minimalistinnovation.com/post/job-contextual-semantic-modeling)
@@ -31,9 +32,8 @@ We translate data into operational clarity, building a strong foundation for sus
 - [Privacy-Preserving Record Linkage: Cryptography, Unicode, and Matching In the Dark](https://www.minimalistinnovation.com/post/privacy-preserving-record-linkage-bloom-filters-hmac-unicode)
 - [The hidden complexity of text: A close look at Unicode normalization for entity resolution](https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution)
 - [The Strategic Framework for Modern Identity: Decoding ER, IR, and IM for the Enterprise](https://www.minimalistinnovation.com/post/decoding-entity-identity-resolution-agentic-ai)
-- [The Invisible Wall Blocking Your FEFO (First Expired, First Out) Strategy](https://www.minimalistinnovation.com/post/fefo-phantom-inventory-product-identity)
 <!-- BLOG-POSTS:END -->
 
 ---
 
-*This README is automated. Last updated: <!-- DATE:START -->2026-10-11 04:42:45 UTC<!-- DATE:END -->*
+*This README is automated. Last updated: <!-- DATE:START -->2026-10-18 03:37:10 UTC<!-- DATE:END -->*
