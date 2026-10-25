@@ -22,6 +22,7 @@ We translate data into operational clarity, building a strong foundation for sus
 ### 📰 Latest Insights from Our Blog
 
 <!-- BLOG-POSTS:START -->
+- [The Discount Worked, and That Was the Problem](https://www.minimalistinnovation.com/post/trade-promotion-post-promotion-dip)
 - [Your Team Knows What Happens to Sales After a Deal Ends](https://www.minimalistinnovation.com/post/sales-after-trade-promotion-ends)
 - [What "Context" Actually Means — And the Five Layers You Need Before an Agent Can Act on Its Own](https://www.minimalistinnovation.com/post/what-is-context-agentic-ai)
 - [The Semantic Layer Market Solved Everything Except the One Question That Matters](https://www.minimalistinnovation.com/post/semantic-layer-job-context-agentic-ai)
@@ -31,9 +32,8 @@ We translate data into operational clarity, building a strong foundation for sus
 - [The infrastructure behind global text: I18N, ICU, and why Rust does it differently](https://www.minimalistinnovation.com/post/global-text-infrastructure-i18n-icu-rust)
 - [Privacy-Preserving Record Linkage: Cryptography, Unicode, and Matching In the Dark](https://www.minimalistinnovation.com/post/privacy-preserving-record-linkage-bloom-filters-hmac-unicode)
 - [The hidden complexity of text: A close look at Unicode normalization for entity resolution](https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution)
-- [The Strategic Framework for Modern Identity: Decoding ER, IR, and IM for the Enterprise](https://www.minimalistinnovation.com/post/decoding-entity-identity-resolution-agentic-ai)
 <!-- BLOG-POSTS:END -->
 
 ---
 
-*This README is automated. Last updated: <!-- DATE:START -->2026-10-18 03:37:10 UTC<!-- DATE:END -->*
+*This README is automated. Last updated: <!-- DATE:START -->2026-10-25 03:44:49 UTC<!-- DATE:END -->*
