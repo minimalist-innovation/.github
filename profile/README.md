@@ -22,6 +22,8 @@ We translate data into operational clarity, building a strong foundation for sus
 ### 📰 Latest Insights from Our Blog
 
 <!-- BLOG-POSTS:START -->
+- [Did That Deal Run the Way You Planned It?](https://www.minimalistinnovation.com/post/trade-promotion-execution-data-sources)
+- [Why Your Promotions Look Better When You Judge Them One at a Time](https://www.minimalistinnovation.com/post/post-event-reports-promotions-one-at-a-time)
 - [The Discount Worked, and That Was the Problem](https://www.minimalistinnovation.com/post/trade-promotion-post-promotion-dip)
 - [Your Team Knows What Happens to Sales After a Deal Ends](https://www.minimalistinnovation.com/post/sales-after-trade-promotion-ends)
 - [What "Context" Actually Means — And the Five Layers You Need Before an Agent Can Act on Its Own](https://www.minimalistinnovation.com/post/what-is-context-agentic-ai)
@@ -30,10 +32,8 @@ We translate data into operational clarity, building a strong foundation for sus
 - [Domain Modeling for Agentic AI: Customer 360 as a Semantic Problem](https://www.minimalistinnovation.com/post/customer-360-domain-modeling-agentic-ai)
 - [Sustainable Entity Resolution: Profiling and Energy Measurement](https://www.minimalistinnovation.com/post/ecological-cost-entity-resolution-software-carbon-intensity)
 - [The infrastructure behind global text: I18N, ICU, and why Rust does it differently](https://www.minimalistinnovation.com/post/global-text-infrastructure-i18n-icu-rust)
-- [Privacy-Preserving Record Linkage: Cryptography, Unicode, and Matching In the Dark](https://www.minimalistinnovation.com/post/privacy-preserving-record-linkage-bloom-filters-hmac-unicode)
-- [The hidden complexity of text: A close look at Unicode normalization for entity resolution](https://www.minimalistinnovation.com/post/unicode-normalization-entity-resolution)
 <!-- BLOG-POSTS:END -->
 
 ---
 
-*This README is automated. Last updated: <!-- DATE:START -->2026-10-25 03:44:49 UTC<!-- DATE:END -->*
+*This README is automated. Last updated: <!-- DATE:START -->2026-11-01 04:58:18 UTC<!-- DATE:END -->*
