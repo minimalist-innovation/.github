@@ -22,6 +22,7 @@ We translate data into operational clarity, building a strong foundation for sus
 ### 📰 Latest Insights from Our Blog
 
 <!-- BLOG-POSTS:START -->
+- [Can Your Demand Forecast Tell You Which Deals to Run?](https://www.minimalistinnovation.com/post/promotion-lift-forecasting)
 - [Did That Deal Run the Way You Planned It?](https://www.minimalistinnovation.com/post/trade-promotion-execution-data-sources)
 - [Why Your Promotions Look Better When You Judge Them One at a Time](https://www.minimalistinnovation.com/post/post-event-reports-promotions-one-at-a-time)
 - [The Discount Worked, and That Was the Problem](https://www.minimalistinnovation.com/post/trade-promotion-post-promotion-dip)
@@ -31,9 +32,8 @@ We translate data into operational clarity, building a strong foundation for sus
 - [Job-Contextual Semantic Modeling: The Need for a New Category Beyond Catalogs, Glossaries, and Semantic Layers](https://www.minimalistinnovation.com/post/job-contextual-semantic-modeling)
 - [Domain Modeling for Agentic AI: Customer 360 as a Semantic Problem](https://www.minimalistinnovation.com/post/customer-360-domain-modeling-agentic-ai)
 - [Sustainable Entity Resolution: Profiling and Energy Measurement](https://www.minimalistinnovation.com/post/ecological-cost-entity-resolution-software-carbon-intensity)
-- [The infrastructure behind global text: I18N, ICU, and why Rust does it differently](https://www.minimalistinnovation.com/post/global-text-infrastructure-i18n-icu-rust)
 <!-- BLOG-POSTS:END -->
 
 ---
 
-*This README is automated. Last updated: <!-- DATE:START -->2026-11-08 05:02:53 UTC<!-- DATE:END -->*
+*This README is automated. Last updated: <!-- DATE:START -->2026-11-15 05:27:15 UTC<!-- DATE:END -->*
